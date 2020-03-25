@@ -1,0 +1,5 @@
+﻿  skaiciuotuvas.cpp
+C:\Users\User\source\repos\skaiciuotuvas\skaiciuotuvas.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\skaiciuotuvas\skaiciuotuvas.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\skaiciuotuvas\skaiciuotuvas.cpp(68,37): warning C4018: '<': signed/unsigned mismatch
+  skaiciuotuvas.vcxproj -> C:\Users\User\source\repos\skaiciuotuvas\Debug\skaiciuotuvas.exe
